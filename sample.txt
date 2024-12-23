@@ -1,4 +1,8 @@
 this is sample file
 AWS
 Mavens
+<<<<<<< HEAD
 this line made by padma
+=======
+Cloud
+>>>>>>> 953f857232ec987d10070694f550e734db835713
